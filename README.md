@@ -122,3 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the web app framework.
 - [LangChain](https://www.langchain.com/) for AI chain management.
 - [OpenAI](https://openai.com/) for the GPT models powering the suggestions.
+
+##Still the code is not running and in developing phases
